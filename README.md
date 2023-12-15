@@ -155,13 +155,13 @@ End the HTML document by closing all open tags.
 </style>
 </head>
 <body>
-    <div>
-    Online Compiler For Computer Programming Languages 
+     <div>
+    Online Compilers For  Programming Languages 
   </div>
     <ul>
-        <li><a href="https://colab.research.google.com/">Python</a></li>
-        <li><a href="https://www.onlinegdb.com/">C- Language</a></li>
-        <li><a href="https://www.jdoodle.com/online-java-compiler/">JavaScript</a></li>
+        <li><a href="https://www.online-python.com/">Python</a></li>
+        <li><a href="https://www.programiz.com/">C- Language</a></li>
+        <li><a href="https://www.jdoodle.com/online-java-compiler">JavaScript</a></li>
   </body>
   </html>
   ```
@@ -218,13 +218,13 @@ Open your HTML file in a web browser and change the orientation of your device t
 </style>
 </head>
 <body>
-    <div>
-    Online Compiler For Computer Programming Languages 
+     <div>
+    Online Compilers For  Programming Languages 
   </div>
     <ul>
-        <li><a href="https://colab.research.google.com/">Python</a></li>
-        <li><a href="https://www.onlinegdb.com/">C- Language</a></li>
-        <li><a href="https://www.jdoodle.com/online-java-compiler/">JavaScript</a></li>
+        <li><a href="https://www.online-python.com/">Python</a></li>
+        <li><a href="https://www.programiz.com/">C- Language</a></li>
+        <li><a href="https://www.jdoodle.com/online-java-compiler">JavaScript</a></li>
   </body>
   </html>
   ```
@@ -294,13 +294,13 @@ Iterate: Adjust your media queries and styles as needed based on your tests.
 </style>
 </head>
 <body>
-    <div>
-    Online Compiler For Computer Programming Languages 
+     <div>
+    Online Compilers For  Programming Languages 
   </div>
     <ul>
-        <li><a href="https://colab.research.google.com/">Python</a></li>
-        <li><a href="https://www.onlinegdb.com/">C- Language</a></li>
-        <li><a href="https://www.jdoodle.com/online-java-compiler/">JavaScript</a></li>
+        <li><a href="https://www.online-python.com/">Python</a></li>
+        <li><a href="https://www.programiz.com/">C- Language</a></li>
+        <li><a href="https://www.jdoodle.com/online-java-compiler">JavaScript</a></li>
   </body>
   </html>
 ```
@@ -363,13 +363,13 @@ Iterate: Adjust your media queries and styles as needed based on your tests.
 </style>
 </head>
 <body>
-    <div>
-    Online Compiler For Computer Programming Languages 
+     <div>
+    Online Compilers For  Programming Languages 
   </div>
     <ul>
-        <li><a href="https://colab.research.google.com/">Python</a></li>
-        <li><a href="https://www.onlinegdb.com/">C- Language</a></li>
-        <li><a href="https://www.jdoodle.com/online-java-compiler/">JavaScript</a></li>
+        <li><a href="https://www.online-python.com/">Python</a></li>
+        <li><a href="https://www.programiz.com/">C- Language</a></li>
+        <li><a href="https://www.jdoodle.com/online-java-compiler">JavaScript</a></li>
   </body>
   </html>
 ```
@@ -428,12 +428,12 @@ Remember to test your website in both light and dark modes to ensure the colors 
 </head>
 <body>
     <div>
-    Online Compiler For Computer Programming Languages 
+    Online Compilers For  Programming Languages 
   </div>
     <ul>
-        <li><a href="https://colab.research.google.com/">Python</a></li>
-        <li><a href="https://www.onlinegdb.com/">C- Language</a></li>
-        <li><a href="https://www.jdoodle.com/online-java-compiler/">JavaScript</a></li>
+        <li><a href="https://www.online-python.com/">Python</a></li>
+        <li><a href="https://www.programiz.com/">C- Language</a></li>
+        <li><a href="https://www.jdoodle.com/online-java-compiler">JavaScript</a></li>
   </body>
   </html>
 ```
